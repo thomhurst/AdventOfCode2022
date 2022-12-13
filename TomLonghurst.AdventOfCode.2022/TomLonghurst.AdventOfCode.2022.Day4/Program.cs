@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+namespace TomLonghurst.AdventOfCode._2022.Day4;
+
 public class Program
 {
     public static async Task Main(string[] args)

@@ -1,5 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 
+namespace TomLonghurst.AdventOfCode._2022.Day5;
+
 public class Program
 {
     public static async Task Main(string[] args)

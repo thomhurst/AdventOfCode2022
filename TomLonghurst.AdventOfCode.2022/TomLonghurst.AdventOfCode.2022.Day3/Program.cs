@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+namespace TomLonghurst.AdventOfCode._2022.Day3;
+
 public class Program
 {
     private static readonly List<char> Characters = new List<char>();
